@@ -1,0 +1,170 @@
+{
+"en/01_summer_fight.png": {
+"size": 2272032,
+"md5": "d8279fe8cbc5ae472c56bd63a5eb2b57"
+},
+"en/02_garden.png": {
+"size": 3377243,
+"md5": "ca9ccdcc90d88045115ce60a8ac87a41"
+},
+"en/03_summer_charms.png": {
+"size": 1324031,
+"md5": "6073dadf1681109a0336bb7c981fa8d8"
+},
+"en/04_letter.png": {
+"size": 1386624,
+"md5": "4eaa9675685c21b266460a52d1f9d0dd"
+},
+"en/05_visit_marigold.png": {
+"size": 1825375,
+"md5": "f33492fa7d3216cf869251c920bc6431"
+},
+"en/06_tower.png": {
+"size": 2449680,
+"md5": "6395076bacf2292ddf9fae789407269a"
+},
+"en/07_desert_fight.png": {
+"size": 1984509,
+"md5": "fc92e0cdeb34f79f008e2e5509ea6379"
+},
+"en/08_climate_choice.png": {
+"size": 2776747,
+"md5": "328cf5f2507d5d7cb24f354a4f7aa804"
+},
+"fr/01_summer_fight.png": {
+"size": 2283633,
+"md5": "79e0f31487be93b5d9a3de227a5425c1"
+},
+"fr/02_garden.png": {
+"size": 3373829,
+"md5": "1d73332aa7031d7a5c75d41f6984d1cb"
+},
+"fr/03_summer_charms.png": {
+"size": 1342012,
+"md5": "c01c2cf10b8beea77850ca8dfddc07c9"
+},
+"fr/04_letter.png": {
+"size": 1453608,
+"md5": "72a0599056ac409fa9d7e9958a1198d2"
+},
+"fr/05_visit_marigold.png": {
+"size": 1841415,
+"md5": "f30af54e85c46b0afc7af3608d8af4e0"
+},
+"fr/06_tower.png": {
+"size": 2420975,
+"md5": "d67743e748e2bedfcbaba7a887f694b9"
+},
+"fr/07_desert_fight.png": {
+"size": 1987581,
+"md5": "4d9044ea5cc6ab45cf164acec20c1d53"
+},
+"fr/08_climate_choice.png": {
+"size": 2792780,
+"md5": "5c331e81270d0674c88a37c80b77ddb2"
+},
+"iap-review/com.sigok110lab.thornbloom.climate.all.png": {
+"size": 1323688,
+"md5": "b28676c5483b7bae0e99e2d03692b560"
+},
+"iap-review/com.sigok110lab.thornbloom.climate.cold.png": {
+"size": 1304735,
+"md5": "6323e40a7e1b1c375843f85a80014b07"
+},
+"iap-review/com.sigok110lab.thornbloom.climate.desert.png": {
+"size": 1304992,
+"md5": "99a7c36646fa27623a0b343b82524313"
+},
+"iap-review/com.sigok110lab.thornbloom.climate.mediterranean.png": {
+"size": 1321997,
+"md5": "b3bc1c5890043b3fcbd94741fabc68f2"
+},
+"iap-review/com.sigok110lab.thornbloom.climate.savanna.png": {
+"size": 1322049,
+"md5": "976569b4ca452d37a8397d4a68bc8930"
+},
+"iap-review/com.sigok110lab.thornbloom.climate.tropics.png": {
+"size": 1304062,
+"md5": "782fe230369d1a841aa4d9236a6b2b8f"
+},
+"iap-review/com.sigok110lab.thornbloom.climate.wetland.png": {
+"size": 1283960,
+"md5": "cefd4ec1c7164554141f47d27a8d2241"
+},
+"iap-review/com.sigok110lab.thornbloom.companions.png": {
+"size": 1222569,
+"md5": "f0f9cb3e78b26fdf142cc24714dbbc72"
+},
+"iap-review/com.sigok110lab.thornbloom.decor.greenhouse.png": {
+"size": 1276935,
+"md5": "5d60bd95eb2138027194ae4653677fa6"
+},
+"iap-review/com.sigok110lab.thornbloom.decor.seasons.png": {
+"size": 1213912,
+"md5": "a45aab2e18c5af2ac48b2f981ec633d2"
+},
+"ja/01_summer_fight.png": {
+"size": 2281349,
+"md5": "cf8c18824458a5aa528acc705368dd65"
+},
+"ja/02_garden.png": {
+"size": 3434970,
+"md5": "2af6cff7e60fab86cbff78b37c2f10eb"
+},
+"ja/03_summer_charms.png": {
+"size": 1371438,
+"md5": "7d94175d48e7b19a9a802633534a6969"
+},
+"ja/04_letter.png": {
+"size": 1415890,
+"md5": "dd40773dd8500abb2fc18cd85ee20f74"
+},
+"ja/05_visit_marigold.png": {
+"size": 1871418,
+"md5": "be1b0c5480f5626f6fb3cb95e3f4881f"
+},
+"ja/06_tower.png": {
+"size": 2526577,
+"md5": "17d525a822921014a1a5679f1a9324b5"
+},
+"ja/07_desert_fight.png": {
+"size": 1960541,
+"md5": "f29e6f991d7cc0e0ca4db7744e32a751"
+},
+"ja/08_climate_choice.png": {
+"size": 2809253,
+"md5": "fb2385dd16ef6e5e6deb67adbf815ae6"
+},
+"ko/01_summer_fight.png": {
+"size": 2134311,
+"md5": "7826018044f12f522b5aca2c5389ef55"
+},
+"ko/02_garden.png": {
+"size": 3278482,
+"md5": "9285a7d8e89acabae6284f4f8e1acbe8"
+},
+"ko/03_summer_charms.png": {
+"size": 1262272,
+"md5": "fb4a45b0c66de35f710ae669d1aeb09b"
+},
+"ko/04_letter.png": {
+"size": 1208251,
+"md5": "6c36b68edc5e5017e9f6bb66682b3c9f"
+},
+"ko/05_visit_marigold.png": {
+"size": 1763863,
+"md5": "21a4999898129ff7d0e1df4730c1a8bc"
+},
+"ko/06_tower.png": {
+"size": 2400135,
+"md5": "df451991777edd33be82244da0a1b855"
+},
+"ko/07_desert_fight.png": {
+"size": 1822306,
+"md5": "2cc508b89be61fbf19001c78ebbc5928"
+},
+"ko/08_climate_choice.png": {
+"size": 2702552,
+"md5": "6d94ec5673ba2c3013d54f2819fb87ed"
+}
+}
